@@ -1,0 +1,4 @@
+# o arquivo que lista as bibliotecas e dependências Python necessárias para executar o projeto. para instalar as dependencias listadas aqui usar  pip install -r requeriments.txt
+
+pytest
+fastapi[standard]
